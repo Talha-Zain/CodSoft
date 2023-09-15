@@ -1,4 +1,4 @@
-# CodSoft
+# CodSoft Internship
 This repository documents my journey during the CodSoft internship as a Web Developer. Here, you'll find the codebase, project milestones, and the exciting work I've undertaken while honing my skills in web development.
 During my internship with CodSoft as a web developer intern, I was tasked with creating a Landing Page.
 This opportunity marked my initial foray into web development, and it has been an enlightening learning journey.
