@@ -1,4 +1,4 @@
-# CodSoft Internship Program (10-Sep 2023 to 10-Oct 2023)
+# CodSoft Internship Program
 This repository documents my journey during the CodSoft internship as a Web Developer. Here, you'll find the codebase, project milestones, and the exciting work I've undertaken while honing my skills in web development.
 
 Level-1_Task-1: Landing Page
