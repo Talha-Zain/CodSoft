@@ -1,4 +1,4 @@
-# CodSoft Internship
+# CodSoft Internship Program (10-Sep 2023 to 10-Oct 2023)
 This repository documents my journey during the CodSoft internship as a Web Developer. Here, you'll find the codebase, project milestones, and the exciting work I've undertaken while honing my skills in web development.
 
 Level-1_Task-1: Landing Page
@@ -20,4 +20,8 @@ My paramount focus has been on creating an intuitive and user-friendly interface
 Smooth navigation and a clear presentation of my work are at the core of this design, 
 ensuring that visitors can easily explore and appreciate my projects.
 
+Level-1_Task-3: Calculator
+Language: HTML, CSS & JavaScript
+Editor: VS-Code.
+During my internship at CodSoft, the Calculator project has been an incredibly instructive and transformative experience. Through this final task, I've expanded my skill set in web development, delving into HTML, CSS, and JavaScript. Crafting the calculator's user interface improved my HTML proficiency and allowed me to experiment with CSS to create visually appealing designs. However, the heart of the project lay in mastering JavaScript, enabling me to build the calculator's functional logic and make it interactive. I learned invaluable lessons in debugging, problem-solving, and project organization, making me a more effective developer. Managing the project on GitHub enhanced my version control skills, while creating comprehensive project documentation emphasized clarity and collaboration. This real-world application of my skills has ignited my passion for web development, inspiring me to pursue increasingly complex projects and stay current in this dynamic field. I'm deeply thankful to CodSoft for this remarkable learning journey.
 
